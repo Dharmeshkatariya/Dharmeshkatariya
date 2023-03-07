@@ -1,6 +1,71 @@
-<center><a href="https://twitter.com/larymak1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/hillary-nyakundi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-[![@larymak's Holopin board](https://holopin.me/larymak)](https://holopin.io/@larymak)
+
+
+<br>
+
+Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
+I support Manchester United 👿 and Barcelona 😎.
+
+<br>
+
+
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+ 
+ 
+ <br>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmeshkatariya" alt="Dharmeshkatariya" /> </p>
+ 
+ </br>
+
+
+
+---
+### 📢 Find me elsewhere
+
+<p align="left">
+  <a href="https://www.codechef.com/users/dharmeshk20">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/abhishekmaira1999/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/abhishekmaira191">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codewars.com/users/abhimaira_10">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
+
+</br>
+
+<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+</a>
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+</a>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
 
 ### Hi there 👋
 
