@@ -1,3 +1,10 @@
+<div align="center">
+    
+<img src = "https://raw.githubusercontent.com/Dharmeshkatariya/Dharmeshkatariya/6a383b61c1b1a12524a5ca66efa6641211b6b0da/gitartwork.svg">
+    
+</div>
+
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 </br>
