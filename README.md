@@ -1,7 +1,7 @@
 
 <div align="center">
     
-<img src = "https://raw.githubusercontent.com/Saurav-Sutaria/Saurav-Sutaria/6a383b61c1b1a12524a5ca66efa6641211b6b0da/gitartwork.svg">
+<img src = "https://raw.githubusercontent.com/Saurav-Sutaria/Dharmeshkatariya/6a383b61c1b1a12524a5ca66efa6641211b6b0da/gitartwork.svg">
     
 </div>
 
