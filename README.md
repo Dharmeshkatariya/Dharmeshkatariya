@@ -54,8 +54,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dharmeshkatariya&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dharmeshkatariya&show_icons=true&locale=en" alt="Dharmeshkatariya" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmeshkatariya&" alt="Dharmeshkatariya" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharmeshkatariya&show_icons=true&locale=en&layout=compact" alt="Dharmeshkatariya" /></p>
