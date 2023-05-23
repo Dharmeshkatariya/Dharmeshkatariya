@@ -3,13 +3,13 @@
 
 </br>
 
-<h1 align="left">
- Hi 👋, I'm Dharmesh katariya
-</h1>
-## I'm a passionate Flutter Developer , dedicated to leading and inspiring upcoming talents and developers. I love being part of minds that give back to the community. Open-Source contribution and community development are my greatest passion!
 
-- 🔭 I’m currently working on ... Dart ,Flutter developement
-- 🌱 I’m currently learning ...  Python 😊
+### 💫 Hi there., I'm Dharmesh katariya👋
+
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Flutter & Dart,
+- 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love  coding and Music
 
