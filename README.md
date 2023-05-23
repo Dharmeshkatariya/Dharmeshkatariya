@@ -18,7 +18,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmeshkatariya&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmeshkatariya" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -52,5 +51,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dharmeshkatariya&icon=5&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmeshkatariya&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmeshkatariya" /> </p>
+
 
