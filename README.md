@@ -42,25 +42,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-### 📢 Find me elsewhere
 
-<p align="left">
-  <a href="https://www.codechef.com/users/dharmeshk20">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://leetcode.com/KatariyaDharmesh/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Dharmeshkatariya&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dharmeshkatariya&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmeshkatariya&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  <a href="https://www.hackerrank.com/katariyadharmes1">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codewars.com/users/dharmeshkatariya">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dharmeshkatariya&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dharmeshkatariya&show_icons=true&locale=en" alt="Dharmeshkatariya" /></p>
 
