@@ -20,13 +20,10 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/dharmesh-katariya-63268b20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/dharmesh_ahir_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://youtu.be/mOuuIfeF5EI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dharmeshkatariya" height="30" width="40" /></a>
-</p>
+## 🌐Socials
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharmesh_ahir_2002)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmesh-katariya-63268b20b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/theflutterhub](https://www.youtube.com/watch?v=zathkW8ZbbU)) 
+
 
 **Languages and Tools:** 
 
